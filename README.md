@@ -68,7 +68,7 @@ Produto:
   "valor": 50,
   "descricao": "Alimenta uma galinha por um dia.",
   "unidadeMedida": "un",
-  "categoria": "Ração",
+  "categoria": "Ração"
 }
 ```
 
@@ -77,7 +77,7 @@ Pedido:
 {
   "valorTotal": 260,
   "dtPedido": "2021-09-09",
-  "clienteId": 1
+  "clienteId": 1,
   "itemPedido": [
     {
       "quantidade":2,
